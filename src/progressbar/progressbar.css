@@ -1,0 +1,16 @@
+
+.progress-item {
+  border: 2px;
+  border-style: solid;
+  margin: 2px;
+  width: 1rem;
+  height: 1rem;
+}
+
+.progress-item--on {
+  background: cyan;
+}
+
+.progressbar {
+  display: flex;
+}
